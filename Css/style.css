@@ -2,14 +2,25 @@
 
 
 body{
-    background-color: rgb(218, 233, 237);
+    background-color: rgb(253, 250, 205);
     font-family: 'Times New Roman', Times, serif;
 }
 .colorFondo{
-    background-color: rgb(90, 99, 104);
+    background-color: rgb(230, 206, 109);
 }
 
 .colorFondo2{
-    background-color: rgb(90, 99, 104);
+    background-color: rgb(230, 206, 109);
 }
 
+.colorFondo3{
+    background-color: rgb(230, 206, 109);
+}
+
+.accordion-header{
+    background-color: blue;
+}
+
+.colorFondo4{
+    background-color: rgb(253, 250, 205);
+}
