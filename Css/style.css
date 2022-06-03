@@ -1,6 +1,5 @@
 
 
-
 body{
     background-color: rgb(253, 250, 205);
     font-family: 'Times New Roman', Times, serif;
@@ -15,10 +14,6 @@ body{
 
 .colorFondo3{
     background-color: rgb(230, 206, 109);
-}
-
-.accordion-header{
-    background-color: blue;
 }
 
 .colorFondo4{
